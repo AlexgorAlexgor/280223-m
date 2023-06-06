@@ -1,3 +1,6 @@
 git log --oneline --graph --decorate --all
 git checkout -b test1
 git checkout test
+
+git log --oneline --graph --decorate --all
+https://drive.google.com/file/d/1XEVf7urM5Ra0yxqTaR7Xr63ygi4hgjJB/view?usp=share_link
